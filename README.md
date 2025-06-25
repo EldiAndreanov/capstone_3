@@ -1,2 +1,2 @@
 # capstone_3
-File IPYNB untuk Capstone 3
+Membuat model prediksi Harga mobil bekas di Arab saudi.
